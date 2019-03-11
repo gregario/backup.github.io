@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Greg Jackson
-description: Maker // Entrepreneur  
-logo: logo.jpg
-show_downloads: True
+description: Maker / Inventor / Entrepreneur  
+logo: logo
+show_downloads: False
 google_analytics: UA-51485831-2
