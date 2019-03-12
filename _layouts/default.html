@@ -22,6 +22,10 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+        {% if site.face %}
+          <img src="{{site.face | relative_url}}" alt="Face" />
+        {% endif %}
+
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
