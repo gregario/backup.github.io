@@ -1,41 +1,22 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/gregario/gregario.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! A little about me. I'm Irish, 31, and mad about tech. My interests are technology and how it can be used to make people's lives better. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Other stuff... I play the guitar and saxophone (Very poorly), done some long distance walking and cycling (I've done 3 [caminos](www.wikipedia.org)!), and like board and strategy games (My [hearthstone](www.hsreplay.net) nerd cred).  
 
-Edit included here JIC it's needed. 
+### The CV Bit
 
-Edit included to see if git pushes work. 
+**Academically** I have a PhD in Computer Science from Imperial College London. I also have a masters in Nanotechnology and an undergraduate in Mechatronic Engineering from DCU, Ireland. I'm a visiting researcher at the Alan Turing Institute in the British Library and a member of the Network of Excellence in Air Quality (NExAir). I've multiple patents and publications, check out my [Google Scholar](https://scholar.google.com.sg/citations?user=FFjIW-wAAAAJ&hl=en) to learn more. 
 
-### Markdown
+I've a list of academic projects I have worked on over the past decade, click on the funky science hat below to learn more. Here's a write up on one piece of work I'm particularly proud of: [Battery Longevity](www.wikipedia.org)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Professionally** I have 10 years professional experience across startups (SolarPrint, Domus.ai and Glanaer), Multinationals (Boston Scientific and Intel Research Labs), and Academia. Currently, I have joined [Entrepreneurs First](www.joinef.com) London cohort to persue my next startup opportunity. 
 
-```markdown
-Syntax highlighted code block
+Follow othe happy dog in the tie to learn more about my professional career. Here's a write up on one piece of work I'm particularly proud of: [Battery Longevity](www.wikipedia.org)
 
-# Header 1
-## Header 2
-### Header 3
+**Personally** I have an interest in sparking a sense of creativity to encourage children to engage with STEM (Science, Technology, Engineering, and Maths) subjects. particularly, I'm interesting in seeing how art can be included (STEAM) to show how these disciplines can be a creative rewarding persuit. 
 
-- Bulleted
-- List
+Join me for a pint below if you want to learn more about my personal projects. For the highlight, check out a global hackathon I ran with Stanford university [here](www.wikipedia.org).
 
-1. Numbered
-2. List
+### Here put in the three photos with links
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gregario/gregario.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
