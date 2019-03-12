@@ -3,7 +3,6 @@ title: Inventor / Entrepreneur
 description: Above, my Name. Below, my face
 logo: logo.jpg
 show_downloads: False
-face: myface.jpg
 google_analytics: UA-51485831-2
 plugins:
   - jekyll-sitemap
