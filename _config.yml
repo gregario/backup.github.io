@@ -1,8 +1,8 @@
 remote_theme: "mmistakes/minimal-mistakes@4.15.2"
 title: Inventor | Entrepreneur  
 description: Above, my name. Below, my face
-logo: /assets/logo.jpg
-face: /assets/myface.jpg
+#logo: /assets/logo.jpg
+#face: /assets/myface.jpg
 show_downloads: False
 google_analytics: UA-51485831-2
 plugins:
