@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
-title: Inventor | Entrepreneur  
-description: Above, my name. Below, my face
+title: Inventor | Entrepreneur | Maker |   
+#description: Above, my name. Below, my face
 logo: /assets/logo.jpg
-face: /assets/myface.jpg
+#face: /assets/myface.jpg
 show_downloads: False
 google_analytics: UA-51485831-2
 plugins:
