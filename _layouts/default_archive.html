@@ -10,11 +10,10 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
   </head>
-
   <body>
     <div class="wrapper">
       <header>
-
+        {% include header.html %}
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
@@ -23,19 +22,19 @@
         {% endif %}
 
 
-        
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.face %}
           <img src="{{site.face | relative_url}}" alt="Face" />
         {% endif %}
-                <!--{% if site.github.is_project_page %}
+
+        {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-{% if site.github.is_user_page %}
+        
+        {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}-->
+        {% endif %}
 
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -44,18 +43,6 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
-        <div class="container">
-		<nav>
-			<ul>
-				{% for page in site.pages %} {% if page.title %}
-				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-				{% endif %} {% endfor %}
-				<li><a href="{{ "/blog" | prepend: site.baseurl }}">Blog</a></li>
-			</ul>
-			</li>
-			</ul>
-		</nav>
-	</div>
       </header>
       <section>
 
@@ -63,10 +50,10 @@
 
       </section>
       <footer>
-        <!--{% if site.github.is_project_page %}
+        {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        {% include footer.html %}-->
+        {% include footer.html %}
         <!-- <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
       </footer>
     </div>
