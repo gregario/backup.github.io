@@ -2,5 +2,9 @@
   link: /
 - name: About
   link: /about.html
-- name: Blog
-  link: /blog.html
+- name: Professional
+  link: /blog/professional.html
+- name: Academic
+  link: /blog/academic.html
+- name: Personal
+  link: /blog/personal.html

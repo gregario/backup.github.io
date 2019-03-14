@@ -1,5 +1,3 @@
-## About Me
-
 
 Hello! A little about me. I'm Irish, 31, and mad about tech. My interests are technology and how it can be used to make people's lives better. 
 

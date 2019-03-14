@@ -9,4 +9,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+permalink: /:categories/:title/
+
 # Best tutorial so far https://www.taniarascia.com/make-a-static-website-with-jekyll/ 

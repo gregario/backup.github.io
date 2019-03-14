@@ -10,7 +10,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
   </head>
-
+{% for tag in tags %}
+  <a href="#{{ tag | slugify }}"> {{ tag }} </a>
+{% endfor %}
   <body>
     <div class="wrapper">
       <header>
@@ -18,11 +20,11 @@
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <img src="{{site.logo | relative_url}}" alt="Logo" class="rounded-corners" />
 
         {% endif %}
 
-
+        <p>   </p>
         
 
         {% if site.face %}
@@ -47,10 +49,9 @@
         <div class="container">
 		<nav>
 			<ul>
-				{% for page in site.pages %} {% if page.title %}
-				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-				{% endif %} {% endfor %}
-				<li><a href="{{ "/blog" | prepend: site.baseurl }}">Blog</a></li>
+				<li><a href="{{ "/blog/professional" | prepend: site.baseurl }}">Professional</a></li>
+        <li><a href="{{ "/blog/academic" | prepend: site.baseurl }}">Academic</a></li>
+        <li><a href="{{ "/blog/personal" | prepend: site.baseurl }}">Personal</a></li>       
 			</ul>
 			</li>
 			</ul>
