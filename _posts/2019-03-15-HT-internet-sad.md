@@ -8,7 +8,7 @@ ________________________________________________
 
 My hot takes are a space for me to chat through my half baked ideas. I'll leave the definition of a hot take to my good friend Penis Armada from urban dictionary. 
 
-![Hot Takes](/assets/hottake.png){:class="img-responsive"}
+![Hot Takes](/assets/hottake.jpg){:class="img-responsive"}
 
 The internet is making us sad. Now I don't think this point is a particularly hot take. It's widely understood that social media is generally a net negative on a persons mental health.  What I want to talk about here is yet another, small, way in which the internet is making us sad. It involves an interesting relationship between a fundamental piece of technology that helps the internet work and the psychological impact of colour. 
 
@@ -19,7 +19,7 @@ So what's lossy compression? Straight basics. A bucket tonne of data is sent ove
 - Lossless compression: Where the file is made smaller but the original data is preserved. Think zip files. 
 - Lossy compression: Where the file is reduced at the cost of losing some of the original data. It's used a lot in image compression, as the result can be 'good enough'. 
 
-I'm interested in the good enough bit and I'm going to focus on the .jpeg image format as JPEG is used by 72.5% of all websites [![REF](https://w3techs.com/technologies/details/im-jpeg/all/all)]. A good camera saves in photos in a RAW format, where every pixel from the camera is saved without any reduction in quality. However, these files can be 10-100MB's. This is overkill for most websites where they're viewed on lower quality screens or where absolute image reproduction isn't paramount to the application. Many .jpeg images are in 10-100kB range, a thousand times smaller than the RAW format. So how is this reduction achieved? 
+I'm interested in the good enough bit and I'm going to focus on the .jpeg image format as JPEG is used by 72.5% of all websites ![REF](https://w3techs.com/technologies/details/im-jpeg/all/all). A good camera saves in photos in a RAW format, where every pixel from the camera is saved without any reduction in quality. However, these files can be 10-100MB's. This is overkill for most websites where they're viewed on lower quality screens or where absolute image reproduction isn't paramount to the application. Many .jpeg images are in 10-100kB range, a thousand times smaller than the RAW format. So how is this reduction achieved? 
 
 Need to describe:
 - Reduction in quality. 8 pixels to 1
