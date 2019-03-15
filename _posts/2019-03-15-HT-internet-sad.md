@@ -2,7 +2,7 @@
 layout: post
 title:  "Hot Take: The Internet is Making Us Sad"
 categories: per
-tags: per HT colour
+tags: per hot-take colour
 ---
 ________________________________________________
 
@@ -10,7 +10,7 @@ My hot takes are a space for me to chat through my half baked ideas. I'll leave 
 
 ![Hot Takes](/assets/hottake.jpg){:class="img-responsive"}
 
-The internet is making us sad. Now I don't think this point is a particularly hot take. It's widely understood that social media is generally a net negative on a persons mental health.  What I want to talk about here is yet another, small, way in which the internet is making us sad. It involves an interesting relationship between a fundamental piece of technology that helps the internet work and the psychological impact of colour. 
+The internet is making us sad. Now I don't think this point is a particularly hot take. It's widely understood that social media is generally a net negative on a persons mental health.  What I want to talk about here is yet another, small, way in which the internet is screwing us. It involves an interesting relationship between a fundamental piece of technology that helps the internet work and the psychological impact of colour. 
 
 ## Lossy Compression
 
@@ -25,22 +25,22 @@ Need to describe:
 - Reduction in quality. 8 pixels to 1
 - Reduction per channel. Show how if you reduce green your eyes bleed. if you reduce blue, you don't notice it as much (Need UG files for this)
 
-You can see from the above that reducing the blue channel of the photo has little impact on our perception of the quality of the photo. So blue is more than the other channels to make the image good enough for the application. You may be asking yourself "Why should I care Greg Jackson?". Well you should care. Blue is great. Let's find out why. 
+You can see from the above that reducing the blue channel of the photo has little impact on our perception of the quality of the photo. So blue is compressed more than the other channels to make the image good enough for the application. You may be asking yourself "Why should I care Greg Jackson?". Well you should care. Blue is great. Let's find out why. 
 
 ## The Colour Blue
 
 The colour blue is historically the most expensive colour to produce. All blue, at one time, came from the semi-precious stone Lapis lazuli which was only found in one area of Afghanistan. This is why the virgin Mary is represented in the colour blue, rich renaissance patrons wanted the most expensive colours in the paintings they commissioned. 
 
-Blue is just really interesting. They did a study of mentions in literature of the colour blue. in Homers Odyssey, blue is not mentioned once. Apparently (According to a podcast on colour I listened to the other day), blue only starts crops up in literature about 3000 years ago. 
+Blue is just really interesting. They did a study of mentions in literature of the colour blue. in Homers Odyssey, blue is not mentioned once. Apparently (According to a podcast on colour I listened to the other day), blue only starts crops up in literature about 3000 years ago. The blue cone of the eye is our most recent ocular addition.
 
-Anywho, let's look at the human eye. So there are cones and rods. Rods help you see in super low light levels and detect motion really well. Then you have three sets of cones to allow humans to see colour, broadly arranged in red, green, and blue colour areas. The blue cone is our most recent ocular addition, however, underneath all of this, we have a third set called photo receptor cells. 
+What's a cone you scream? Let's look at the human eye. So there are cones and rods. Rods help you see in super low light levels and detect motion really well. Then you have three sets of cones to allow humans to see colour, broadly arranged in red, green, and blue colour areas. Underneath all of this, we have a third set called photo receptor cells. 
 
 ![Photoreceptors](/assets/eyephotoreceptors.jpg){:class="img-responsive"}
 Photo Receptor Cells - Omikron /Getty Images/Science Source 
 
-These photo receptor cells don't help us physically see things consciously. Rather they impact our bodies operation in a bunch of ways and are particularly sensitive to blue light. They tie back to a time (where supposedly we didn't see blue) where we lived in caves and fire was king. During the day humans would be out and about doing their hunting and gathering chores. Sunlight has a lot of blue in it so during the day we were heavily exposed to blue light. Then at night we'd be chilling out in our caves doing caveman things, the source of light would be fire which has very little to no blue in it, it's a warm orange light. This created, over thousands of years, a fundamental relationship between light colour and our bodies operation. Blue light impacts our circadian rhythm. Blue light blocks the production of melatonin, our sleep chemical. Blue means daylight and activity and warm light means cave and safety and sleep. 
+These photo receptor cells don't help us physically see things consciously. Rather they impact our bodies operation in a bunch of ways and are particularly sensitive to blue light. They tie back to a time where we lived in caves and fire was king. During the day humans would be out and about doing their hunting and gathering chores. Sunlight has a lot of blue in it so during the day we were heavily exposed to blue light. Then at night we'd be chilling out in our caves doing caveman things, the source of light would be fire which has very little to no blue in it, it's a warm orange light. This baked into our bodies operation, over thousands of years, a fundamental relationship between light colour and our bodies operation. Blue light impacts our circadian rhythm. Blue light blocks the production of melatonin, our sleep chemical. Blue means daylight, activity, hunting, and bants. Warm light means caves, safety, and sleep. 
 
-We know seasonal affective disorder is a result of a lack of exposure to sunlight and there are SAD lamps to help those who move to less sunny places. Recent studies [[REF](https://www.sciencedirect.com/science/article/pii/S0092867418310201)] have shown a direct relationship, beyond impact on sleep, of daylight, and particularly blue light, on our production of dopamine and serotonin. So blue light directly makes us happy and during the day should be maximized. 
+We know seasonal affective disorder is a result of a lack of exposure to sunlight and there are SAD lamps to help those who move to less sunny places. Recent studies [[REF](https://www.sciencedirect.com/science/article/pii/S0092867418310201)] have shown a direct relationship, beyond impact on sleep, of daylight, and specifically the blue light, on our production of dopamine and serotonin. So blue light directly makes us happy and during the day should be maximized. 
 
 
 ## Put Those Hands Together
